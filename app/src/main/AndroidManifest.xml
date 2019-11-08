@@ -9,6 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".Refeicoes"/>
+        <activity android:name=".CadastrarRefeicao" />
+        <activity android:name=".Taco" />
+        <activity android:name=".Dia" />
+        <activity android:name=".Calendario" />
+        <activity android:name=".Perfil" />
         <activity
             android:name=".SplashDevMedia"
             android:label="@string/app_name"
@@ -22,8 +28,7 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:label="@string/app_name">
-        </activity>
+            android:label="@string/app_name" />
     </application>
 
 </manifest>

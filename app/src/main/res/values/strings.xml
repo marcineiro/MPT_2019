@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">MPT_2019</string>
     <string name="system" translatable="false">Smart Food</string>
+    <string name="perfil" translatable="false">Perfil</string>
+    <string name="calendario" translatable="false">Calendario</string>
+    <string name="NomePessoa" translatable="false">Nome</string>
+    <string name="AlturaPessoa" translatable="false">Altura (Cm)</string>
+    <string name="PesoPessoa" translatable="false">Peso (Kg)</string>
+    <string name="NascPessoa" translatable="false">Data de Nascimento</string>
+    <string name="SexoPessoa" translatable="false">Sexo</string>
+    <string name="calendarioActv" translatable="false">Veja o Dia Desejado</string>
+    <string name="selecionar" translatable="false">Selecionar</string>
+    <string name="tabela" translatable="false">Tabela</string>
+    <string name="refeicoes" translatable="false">Refeições</string>
+    <string name="novarefeicao" translatable="false">Nova Refeição</string>
+    <string name="kcal" translatable="false">Kcal</string>
+    <string name="alimento" translatable="false">Alimento</string>
+
 </resources>
